@@ -1322,13 +1322,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.57553319896874" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="420.57553319896874" y="0" width="32.55923687905216" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.1347700780209" y="0" width="3.1145741207762137" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.24934419879713" y="0" width="1.2675040539159093" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="457.51684825271303" y="0" width="1.2480902750097773" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="458.7649385277228" y="0" width="1.2290216299508654" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.99396015767365" y="0" width="0.0060398423263521885" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.6570416168287" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="420.6570416168287" y="0" width="32.491922033726986" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.1489636505557" y="0" width="3.1081348704960963" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.2570985210518" y="0" width="1.2648835428868785" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="457.52198206393865" y="0" width="1.2455099011476307" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="458.76749196508626" y="0" width="1.22648067970597" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.9939726447923" y="0" width="0.0060273552077659285" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1372,7 +1372,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.3 characters per line of code written</li>
+                        <li>Has approximately 35.7 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1472,13 +1472,13 @@
               17
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               18
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1548,19 +1548,19 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">C#</span>
-                            <div class="bar" style="width: 37.969127297621675%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">47%</span>
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 38.690712610488546%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">48%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 35.73350596228706%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">45%</span>
+                            <span class="name">C#</span>
+                            <div class="bar" style="width: 34.498018719153826%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">43%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 6.2973667400912605%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">8%</span>
+                            <div class="bar" style="width: 6.811268670357622%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">9%</span>
                         </div>
                     </div>
                 </section>
@@ -2572,10 +2572,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.6 0,6.6 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.6 1.7,7.6 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.4)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6 0,2.6 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6 1.7,3.6 z"/>
+                            <g transform="translate(-1.7, 5)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
                             </g>
                         </g>
                     </g>
