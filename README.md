@@ -5,7 +5,7 @@ Calci @seonghwan-dev
 ### Languages
 C#, C++, Python, MaxScript, ActionScript, TypeScript.  
 
-## ***Respositories***
+## ***Repositories***
 ### Unity Plugins
 - [Asset Lens] : 유니티 에셋 레퍼런스 트래킹 에디터 도구
 - [Project Builder] : 프로젝트 배치 빌드 도구
