@@ -1,6 +1,14 @@
 <!-- ![Metrics](github-metrics.svg) -->
 
-Calci @seonghwan-dev
+Calci @seonghwan-dev  
+👋 안녕하세요! 끈기있게 탐구하는 개발자, 전성환입니다.  
+> 게임 프로그래머 Game Programmer  
+> 테크니컬 아티스트 Technical Artist  
+
+## What I did
+- [CV]  
+- [Tistory]  
+- [GitHub Pages]  
 
 ### Languages
 C#, C++, Python, MaxScript, ActionScript, TypeScript.  
@@ -26,7 +34,9 @@ C#, C++, Python, MaxScript, ActionScript, TypeScript.
 ### Others
 - [Open Include] - Unity SRP `#include` 파일을 열어주는 Visual Studio 플러그인  
 
-
+[CV]: https://jeon.sh/Resume/
+[Tistory]: https://tistory.jeon.sh/
+[GitHub Pages]: https://blog.jeon.sh/
 [Asset Lens]: https://github.com/seonghwan-dev/AssetLens  
 [DrawDebugHelper]: https://github.com/seonghwan-dev/DrawDebugHelper  
 [Project Builder]: https://github.com/seonghwan-dev/Project-Builder
