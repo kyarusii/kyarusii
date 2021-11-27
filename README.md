@@ -5,10 +5,11 @@ Calci @seonghwan-dev
 > 게임 프로그래머 Game Programmer  
 > 테크니컬 아티스트 Technical Artist  
 
-## What I did
+## ***Socials***
 - [CV]  
 - [Tistory]  
-- [GitHub Pages]  
+- [GitHub Pages]
+- [Linked In]  
 
 ### Languages
 C#, C++, Python, MaxScript, ActionScript, TypeScript.  
@@ -37,6 +38,8 @@ C#, C++, Python, MaxScript, ActionScript, TypeScript.
 [CV]: https://jeon.sh/Resume/
 [Tistory]: https://tistory.jeon.sh/
 [GitHub Pages]: https://blog.jeon.sh/
+[Linked In]: https://www.linkedin.com/in/seonghwan-dev/
+
 [Asset Lens]: https://github.com/seonghwan-dev/AssetLens  
 [DrawDebugHelper]: https://github.com/seonghwan-dev/DrawDebugHelper  
 [Project Builder]: https://github.com/seonghwan-dev/Project-Builder
