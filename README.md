@@ -10,6 +10,7 @@ Calci @seonghwan-dev
 - [Tistory]  
 - [GitHub Pages]
 - [Linked In]  
+- [Youtube]  
 
 ### Languages
 C#, C++, Python, MaxScript, ActionScript, TypeScript.  
@@ -39,6 +40,7 @@ C#, C++, Python, MaxScript, ActionScript, TypeScript.
 [Tistory]: https://tistory.jeon.sh/
 [GitHub Pages]: https://blog.jeon.sh/
 [Linked In]: https://www.linkedin.com/in/seonghwan-dev/
+[Youtube]: https://www.youtube.com/channel/UCejzaM_RkykdoidzlPg-qCw/featured
 
 [Asset Lens]: https://github.com/seonghwan-dev/AssetLens  
 [DrawDebugHelper]: https://github.com/seonghwan-dev/DrawDebugHelper  
