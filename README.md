@@ -36,7 +36,7 @@ C#, C++, Python, MaxScript, ActionScript, TypeScript.
 ### Others
 - [Open Include] - Unity SRP `#include` 파일을 열어주는 Visual Studio 플러그인  
 
-[CV]: https://jeon.sh/Resume/
+[CV]: https://jeon.sh/CurriculumVitae
 [Tistory]: https://tistory.jeon.sh/
 [GitHub Pages]: https://blog.jeon.sh/
 [Linked In]: https://www.linkedin.com/in/seonghwan-dev/
