@@ -6,14 +6,20 @@ Calci @seonghwan-dev
 > *Programming, Technical Art, Hardsurface Modelling*
 
 ## ***Socials***
-- [CV]  
-- [Tistory]  
-- [GitHub Pages]
-- [Linked In]  
-- [Youtube]  
+[![CV](https://img.shields.io/badge/CV-3776AB.svg?&style=for-the-badge)](https://jeon.sh/CurriculumVitae)
+[![티스토리](https://img.shields.io/badge/Tistory-FCA121.svg?&style=for-the-badge)](https://tistory.jeon.sh/)
+[![블로그](https://img.shields.io/badge/GitHub_Blog-68BC71.svg?&style=for-the-badge&logo=GitHub&logoColor=White)](https://blog.jeon.sh/)
+
+<!-- - [Linked In]   -->
+<!-- - [Youtube]   -->
 
 ### Languages
-C#, C++, Python, MaxScript, ActionScript, TypeScript.  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
 ## ***Repositories***
 ### Unity Plugins
