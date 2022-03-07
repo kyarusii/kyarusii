@@ -2,8 +2,8 @@
 
 Calci @seonghwan-dev  
 👋 안녕하세요! 끈기있게 탐구하는 개발자, 전성환입니다.  
-> 게임 프로그래머 Game Programmer  
-> 테크니컬 아티스트 Technical Artist  
+> 게임 개발자 Game Developer  
+> *Programming, Technical Art, Hardsurface Modelling*
 
 ## ***Socials***
 - [CV]  
