@@ -19,6 +19,8 @@ Calci @seonghwan-dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer)
+
 <!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
 ## ***Repositories***
@@ -30,6 +32,7 @@ Calci @seonghwan-dev
 - [FormerlySerializedAsForShaderLab] : 셰이더 프로퍼티 이름 변경시 이전 이름으로 저장된 데이터를 가져와주는 도구
 - [Whisper] : 키 값에 델리게이트를 저장하고 적은 비용으로 글로벌 호출이 가능
 
+<!-- 
 #### WIP
 - [DrawDebugHelper] : 게임뷰에서 디버깅용 프리미티브 메쉬를 그려주는 도구
 - [BehaviorTreeGraph] : 런타임 에디팅을 지원하는 비헤이비어 트리 그래프
@@ -37,7 +40,8 @@ Calci @seonghwan-dev
 ### Games (Private until release as open source)
 - Auto Battler Framework
 - Rhythm Game Framework
-- Yahtzee Dice Framework
+- Yahtzee Dice Framework 
+-->
 
 ### Others
 - [Open Include] - Unity SRP `#include` 파일을 열어주는 Visual Studio 플러그인  
