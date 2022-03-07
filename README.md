@@ -6,9 +6,9 @@ Calci @seonghwan-dev
 > *Programming, Technical Art, Hardsurface Modeling*
 
 ## ***Socials***
-[![CV](https://img.shields.io/badge/CV-3776AB.svg?&style=for-the-badge)](https://jeon.sh/CurriculumVitae)
-[![티스토리](https://img.shields.io/badge/Tistory-FCA121.svg?&style=for-the-badge)](https://tistory.jeon.sh/)
-[![블로그](https://img.shields.io/badge/GitHub_Blog-68BC71.svg?&style=for-the-badge&logo=GitHub&logoColor=White)](https://blog.jeon.sh/)
+[![CV](https://img.shields.io/badge/CV-555555.svg?&style=for-the-badge)](https://jeon.sh/CurriculumVitae)
+[![티스토리](https://img.shields.io/badge/Tistory-444444.svg?&style=for-the-badge)](https://tistory.jeon.sh/)
+[![블로그](https://img.shields.io/badge/GitHub_Blog-333333.svg?&style=for-the-badge&logo=GitHub&logoColor=White)](https://blog.jeon.sh/)
 
 <!-- - [Linked In]   -->
 <!-- - [Youtube]   -->
