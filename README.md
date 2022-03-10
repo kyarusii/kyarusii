@@ -19,7 +19,7 @@ Calci @seonghwan-dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer)
 
 <!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
