@@ -2,7 +2,7 @@
 
 Calci @seonghwan-dev  
 👋 안녕하세요! 끈기있게 탐구하는 개발자, 성환입니다.  
-> 게임 개발 제너럴리스트 Game Development Generalist
+> 게임 개발 제너럴리스트 Game Development Generalist  
 > *Programming, Technical Art, Hardsurface Modeling*
 
 <!-- ## ***Socials*** -->
