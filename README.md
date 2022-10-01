@@ -23,6 +23,10 @@ Calci @seonghwan-dev
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer)
 
+### Careers
+- Blackspot Entertainment.  
+- NEXON KOREA.  
+
 <!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
 <!-- ## ***Repositories***
