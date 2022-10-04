@@ -21,7 +21,8 @@ Calci @seonghwan-dev
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer) -->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
 
 ### Careers
 - Blackspot Entertainment.  
