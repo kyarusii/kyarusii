@@ -1,6 +1,6 @@
 <!-- ![Metrics](github-metrics.svg) -->
 
-Calci @seonghwan-dev  
+@shaderqu  
 👋 안녕하세요! 끈기있게 탐구하는 개발자, 성환입니다.  
 > 게임 개발 제너럴리스트 Game Development Generalist  
 > *Programming, Technical Art, Hardsurface Modeling*
@@ -16,11 +16,12 @@ Calci @seonghwan-dev
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer) -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
 
