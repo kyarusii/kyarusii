@@ -25,9 +25,6 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer) -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
 
-### Careers
-- Blackspot Entertainment.  
-- NEXON KOREA.  
 
 <!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
