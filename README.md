@@ -28,12 +28,12 @@
 <p align="center">
   <a href="https://solved.ac/calcifer">
     
-  ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=calcifer)
+  ![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=calcifer)
 
   </a>
   <a href="https://solved.ac/calcifer">
   
-   ![Codewars Profile](https://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
+   ![zandi](https://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
     
   </a>  
 
