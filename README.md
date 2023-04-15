@@ -23,8 +23,16 @@
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=calcifer)](https://solved.ac/profile/calcifer) -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark) -->
 
+<p align="center">
+  <a href="https://solved.ac/calcifer">
+  ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=calcifer)
+  </a>
+  <a href="https://solved.ac/calcifer">
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
+  </a>
+</p>
 
 <!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
