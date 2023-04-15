@@ -27,13 +27,18 @@
 
 <p align="center">
   <a href="https://solved.ac/calcifer">
+    
   ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=calcifer)
+
   </a>
   <a href="https://solved.ac/calcifer">
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
-  </a>
-</p>
+  
+   ![Codewars Profile](https://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
+    
+  </a>  
 
+</p>
+  
 <!-- C#, C++, Python, MaxScript, ActionScript, TypeScript.   -->
 
 <!-- ## ***Repositories***
@@ -58,6 +63,8 @@
 <!-- 
 ### Others
 - [Open Include] - Unity SRP `#include` 파일을 열어주는 Visual Studio 플러그인   -->
+ 
+ 
 
 [CV]: https://jeon.sh/CurriculumVitae
 [Tistory]: https://tistory.jeon.sh/
