@@ -4,15 +4,15 @@
 
 > 👋 Hello, there!
 - Game Development Generalist  
-- *Programming, Technical Art, Hardsurface Modeling*  
-- Professional Unity Hatespeecher
+- *Programming, Technical Art, Hardsurface Modeling, System Design*  
+- Rendering Enthusiast  
 
 
 ### Skills
-- Languages: C++, C#, Pythone, Go, Rust, Verse, ActionScript 3, MaxScripts
-- Engines: UnrealEngine, UnityEngine, LithTech Engine (Jupyter)
-- Techniques: Hardsurface Modeling (3ds Max) & Texturing (Substance)
-- Tools: IDA, OllyDbg, 3ds Max, Substance
+- Languages: C++, C#, Python, Go, Rust, ActionScript 3, MaxScripts  
+- Engines: Unreal, Unity, LithTech (Jupyter)  
+- Techniques: Hardsurface Modeling (3ds Max) & Texturing (Substance)  
+- Tools: IDA, OllyDbg, 3ds Max, Substance, Blender 3D  
 
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
