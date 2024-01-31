@@ -31,7 +31,7 @@
   </a>
   <a href="https://solved.ac/calcifer">
   
-   ![zandi](https://mazandi.herokuapp.com/api?handle=calcifer&theme=dark)
+   <!-- ![zandi](https://mazandi.herokuapp.com/api?handle=calcifer&theme=dark) -->
     
   </a>  
 
